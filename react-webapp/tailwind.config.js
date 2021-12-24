@@ -1,0 +1,19 @@
+module.exports = {
+  content: [
+    "./index.html",
+    "./src/**/*.{vue,js,ts,jsx,tsx}",
+  ],
+  theme: {
+    extend: {
+      fontFamily: {
+        'inter': ['Inter','sans-serif']
+      }  
+    },
+    container : {
+      padding : {
+        DEFAULT: '2rem'
+      }
+    }
+  },
+  plugins: [],
+}

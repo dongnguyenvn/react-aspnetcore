@@ -10,15 +10,15 @@
 <p align="center">
   <img width="700" align="center" src="./Demo/assfinal1.PNG" alt="demo"/>
 </p>
-- Add
+<p>Add</p>
 <p align="center">
   <img width="700" align="center" src="./Demo/assfinaladdform.PNG" alt="demo"/>
 </p>
-- Update
+<p>Update</p>
 <p align="center">
   <img width="700" align="center" src="./Demo/assfinalupdateform.PNG" alt="demo"/>
 </p>
-- Delete
+<p>Delete</p>
 <p align="center">
   <img width="700" align="center" src="./Demo/assfinaldeleteform.PNG" alt="demo"/>
 </p>

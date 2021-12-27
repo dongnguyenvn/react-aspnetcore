@@ -10,15 +10,15 @@
 <p align="center">
   <img width="700" align="center" src="./Demo/assfinal1.PNG" alt="demo"/>
 </p>
-Add
+- Add
 <p align="center">
   <img width="700" align="center" src="./Demo/assfinaladdform.PNG" alt="demo"/>
 </p>
-Update
+- Update
 <p align="center">
   <img width="700" align="center" src="./Demo/assfinalupdateform.PNG" alt="demo"/>
 </p>
-Delete
+- Delete
 <p align="center">
   <img width="700" align="center" src="./Demo/assfinaldeleteform.PNG" alt="demo"/>
 </p>
@@ -31,7 +31,7 @@ Delete
 ```sh
 cd WebAPI
 ```
-Update database string
+- Update database string
 
 ```sh
 dotnet run
